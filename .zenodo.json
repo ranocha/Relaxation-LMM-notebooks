@@ -1,0 +1,21 @@
+{
+    "description": "General Relaxation Methods for Initial-Value Problems with Application to Multistep Schemes",
+    "license": "mit-license",
+    "title": "ranocha/Relaxation-LMM-notebooks",
+    "version": "v1.0.0",
+    "upload_type": "software",
+    "publication_date": "2020-03-05",
+    "creators": [
+        {
+            "affiliation": "King Abdullah University of Science and Technology",
+            "name": "Hendrik Ranocha",
+            "orcid": "0000-0002-3456-2277"
+        },
+        {
+	    "affiliation": "King Abdullah University of Science and Technology",
+            "name": "David I. Ketcheson",
+            "orcid": "0000-0002-1212-126X"
+        }
+    ],
+    "access_right": "open"
+}

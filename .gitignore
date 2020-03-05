@@ -1,0 +1,8 @@
+figures/*.pdf
+
+.ipynb_checkpoints/
+__pycache__
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__
+figures/.ipynb_checkpoints/
+figures/__pycache__
