@@ -1,7 +1,7 @@
 # General Relaxation Methods for Initial-Value Problems with Application to Multistep Schemes
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-<!-- [![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://doi.org/TODO) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697836.svg)](https://doi.org/10.5281/zenodo.3697836)
 
 <!-- This repository contains some code used in the article
 ```
@@ -24,13 +24,13 @@ use the implementations provided here, please cite this repository as
 ```
 @misc{ranocha2020generalRepro,
   title={{Relaxation-LMM-notebooks}.
-         General Relaxation Methods for Initial-Value Problems
+         {G}eneral Relaxation Methods for Initial-Value Problems
          with Application to Multistep Schemes},
   author={Ranocha, Hendrik and Ketcheson, David I},
   year={2020},
   month={03},
   howpublished={\url{https://github.com/ranocha/Relaxation-LMM-notebooks}},
-  doi={TODO}
+  doi={10.5281/zenodo.3697836}
 }
 ```
 
