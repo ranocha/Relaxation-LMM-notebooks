@@ -17,7 +17,7 @@
 }
 ``` -->
 
-> Recently, an approach known as relaxation has been developed for preserving the correct evolution of a functional in the numerical solution of initial-value problems, using Runge-Kutta methods. We generalize this approach to multistep methods, including all general linear methods of order two or higher, and many other classes of schemes. We prove the existence of a valid relaxation parameter and high order accuracy of the resulting method, in the context of general equations, including but not limited to conservative and dissipative systems. The theory is illustrated with several numerical examples.
+> Recently, an approach known as relaxation has been developed for preserving the correct evolution of a functional in the numerical solution of initial-value problems, using Runge-Kutta methods. We generalize this approach to multistep methods, including all general linear methods of order two or higher, and many other classes of schemes. We prove the existence of a valid relaxation parameter and high-order accuracy of the resulting method, in the context of general equations, including but not limited to conservative or dissipative systems. The theory is illustrated with several numerical examples.
 
 If you find these results useful, please cite the article mentioned above. If you
 use the implementations provided here, please cite this repository as
