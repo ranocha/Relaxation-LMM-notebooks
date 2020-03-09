@@ -3,19 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3697836.svg)](https://doi.org/10.5281/zenodo.3697836)
 
-<!-- This repository contains some code used in the article
+This repository contains some code used in the article
 ```
 @online{ranocha2020general,
   title={General Relaxation Methods for Initial-Value Problems
          with Application to Multistep Schemes},
-  author={Ranocha, Hendrik and Ketcheson, David I},
+  author={Ranocha, Hendrik and L{\'o}czi, Lajos and Ketcheson, David I},
   year={2020},
   month={03},
-  eprint={TODO},
+  eprint={2003.03012},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
-``` -->
+```
 
 > Recently, an approach known as relaxation has been developed for preserving the correct evolution of a functional in the numerical solution of initial-value problems, using Runge-Kutta methods. We generalize this approach to multistep methods, including all general linear methods of order two or higher, and many other classes of schemes. We prove the existence of a valid relaxation parameter and high-order accuracy of the resulting method, in the context of general equations, including but not limited to conservative or dissipative systems. The theory is illustrated with several numerical examples.
 
